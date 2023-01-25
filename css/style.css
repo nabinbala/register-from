@@ -1,0 +1,61 @@
+.login-box{
+    width: 600px;
+    background: #eee;
+    margin:40px auto 0px;
+    padding: 40px;
+}
+.login-form{
+    width: 100%;
+   
+}
+.avater{
+    width: 100%;
+    text-align: center;
+}
+.avater img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    border: 2px solid #000;
+    
+}
+.avater h1{
+    font-size: 40px;
+    font-weight: 350;
+    text-transform: uppercase;
+}
+
+.form-group{
+    width: 100%;  
+}
+
+.form-group label{
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.form-group .form-control{
+    width: 97%;
+    padding: 7px;
+    font-size: 12px;line-height: 22px;
+    border: 1px solid rgb(45, 45, 95);
+    border-radius: 10px;
+}
+
+.btn{
+padding: 10px 40px;
+margin: 10px 0px 0px;
+border-radius: 10px;
+border: 1px solid rgb(29, 29, 83);
+font-size: 12px;
+font-weight: 600px;
+text-transform: uppercase;
+}
+.btn:hover{
+    cursor: pointer;
+    background: rgb(8, 170, 219);
+    color: #fff;
+    transition: .5s;
+
+}
